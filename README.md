@@ -11,7 +11,7 @@ Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness
 * ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
 * 🚀  I'm currently working on [EcoHub](http://github.com/saiabhiramjaini/EcoHub-Market)
 * 🧠  I'm learning FullStack Development
-* 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, Devops projects
+* 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, DevOps projects
 * ⚡  Cricket enthusiast by day 🏏
 
 ### Skills
