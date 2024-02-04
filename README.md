@@ -11,7 +11,7 @@ Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness
 * ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
 * 🚀  I'm currently working on [EcoHub](http://github.com/saiabhiramjaini/EcoHub-Market)
 * 🧠  I'm learning FullStack Development
-* 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, DevOps projects
+* 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, Devops projects
 * ⚡  Cricket enthusiast by day 🏏
 
 ### Skills
@@ -30,6 +30,6 @@ Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/saiabhiramjaini"><img src="https://github-readme-stats.vercel.app/api?username=saiabhiramjaini&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="saiabhiramjaini's GitHub stats" /></a>
+<a href="http://www.github.com/saiabhiramjaini"><img src="https://github-readme-stats.vercel.app/api?username=saiabhiramjaini&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="saiabhiramjaini's GitHub stats" /></a>
 
-<a href="http://www.github.com/saiabhiramjaini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saiabhiramjaini&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/saiabhiramjaini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saiabhiramjaini&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
