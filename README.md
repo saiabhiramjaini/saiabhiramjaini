@@ -7,7 +7,7 @@ Aspiring Software Developer
 Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness in every commit! 🚨✨ | Turning caffeine into code and dreams into reality 💻✨
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sai-abhiram-jaini/)
+* 🖥️  See my portfolio at [Jaini Sai Abhiram](https://portfolio-three-indol-50.vercel.app/)
 * ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
 * 🚀  I'm currently working on [EcoHub](http://github.com/saiabhiramjaini/EcoHub-Market)
 * 🧠  I'm learning FullStack Development
