@@ -9,7 +9,7 @@ Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [Jaini Sai Abhiram](https://portfolio-three-indol-50.vercel.app/)
 * ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
-* 🚀  I'm currently working on [EcoHub](http://github.com/saiabhiramjaini/EcoHub-Market)
+* 🚀  I'm currently working on [ReSculpt](https://github.com/saiabhiramjaini/ReSculpt)
 * 🧠  I'm learning FullStack Development
 * 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, Devops projects
 * ⚡  Cricket enthusiast by day 🏏
