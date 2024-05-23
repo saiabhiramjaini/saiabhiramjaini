@@ -4,15 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Developer
 ---------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiabhiramjaini&label=Profile%20views&color=0e75b6&style=flat" alt="saiabhiramjaini" /> </p>
+
 Burning the midnight oil with lines of code! 🌙🚀 | Unleashing the craziness in every commit! 🚨✨ | Turning caffeine into code and dreams into reality 💻✨
 
-* 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [Jaini Sai Abhiram](https://portfolio-three-indol-50.vercel.app/)
-* ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
-* 🚀  I'm currently working on [ReSculpt](https://github.com/saiabhiramjaini/ReSculpt)
-* 🧠  I'm learning FullStack Development
-* 🤝  I'm open to collaborating on Fullstack, Flutter, ML, DL, Devops projects
-* ⚡  Cricket enthusiast by day 🏏
+- 🌍  I'm based in Hyderabad, India
+  
+- 🖥️  See my portfolio at [Jaini Sai Abhiram](https://portfolio-three-indol-50.vercel.app/)
+  
+- ✉️  You can contact me at [abhiramjaini28@gmail.com](mailto:abhiramjaini28@gmail.com)
+  
+- 🚀  I'm currently working on [ReSculpt](https://github.com/saiabhiramjaini/ReSculpt)
+  
+- 🧠  I'm learning **FullStack Development, ML**
+  
+- 🤝  I'm open to collaborating on **Fullstack, Flutter, ML, DL, Devops projects**
+  
+- ⚡  Cricket enthusiast by day 🏏
 
 ### Skills
 
